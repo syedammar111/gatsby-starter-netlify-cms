@@ -1,15 +1,25 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Automated setup of 3-Tier Application Locally
+date: 2021-07-25T00:08:33.387Z
+description: >-
+  Automated setup of 3-Tier Application locally by using Vagrant, Virtual Box,
+  and Bash scripting.
+
+  Services used: Nginx, Tomcat, RabbitMQ, Memcache, MySQL.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/kaleidico-3v8xo5gbusk-unsplash.jpg
 tags:
-  - flavor
-  - tasting
+  - Nginx
+  - Tomcat
+  - RabbitMQ
+  - Memcache
+  - MySQL
+  - Vagrant
+  - Virtualbox
+  - Bashscripting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Automated setup of 3-Tier Application Locally](/img/kaleidico-3v8xo5gbusk-unsplash.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
